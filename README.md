@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Shubham Sharma
-- 👀 I’m interested in ... Study -Machine Learning,Data Science;
-                            else- Gamer
+- 👀 I’m interested in ... Study -Machine Learning,Data Science,Artificial Intelligence;                           
 - 🌱 I’m currently learning ...Machine Learning :course by andrew Ng;
                                Data structures and Algorithms
-- 💞️ I’m looking to collaborate on ...Machine Learning Projects; Solving DSA coding problems
+- 💞️ I’m looking to collaborate on ...Machine Learning Projects , Solving DSA coding problems
 - 📫 How to reach me ...Social Handles: instagram - shubh.xxi
 
 <!---
